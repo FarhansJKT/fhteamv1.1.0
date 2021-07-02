@@ -28,7 +28,7 @@ client.muslim.ayatkursi()
 
 // EDUKASI
 
-client.edukasi.covidword()
+client.edukasi.covidworld()
 .then(res => console.log(res))
 .catch(err => console.log(err))
 
